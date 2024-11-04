@@ -1,6 +1,6 @@
 alvo: 10.10.11.28
 
-Como sempre, vamos comecar com scans e enumeracao.
+Como sempre, vamos comecar com a coleta de dados.
 
 usando o nmap encontrei duas portas aberats
 
