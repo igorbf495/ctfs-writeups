@@ -14,5 +14,5 @@ Apos navegar um pouco pelo site, cliquei em um botao de contact que me levou `ao
 
 ![image](https://github.com/user-attachments/assets/aab9da73-c098-4422-b93f-991c3038ee56)
 
-fiz um registro mas nao aconteceu nada, e tambem nao encontrei nada demais no site, entao voltei ao basico e fui fazer enumeracoes de diretorios
+fiz um registro mas nao aconteceu nada, e tambem nao encontrei nada demais no site, entao voltei ao basico e fui fazer enumeracao para coletar mais informacoes
 
