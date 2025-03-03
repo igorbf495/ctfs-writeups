@@ -18,3 +18,5 @@ no analisando a request no burp, ele me mostra o status code 302, ou seja, redir
 
 
 ![image](https://github.com/user-attachments/assets/a92d6691-0224-44a3-88b7-084252fa099f)
+
+![image](https://github.com/user-attachments/assets/fefa9a3f-3c69-4eb8-86d7-a9374811d6ee)
